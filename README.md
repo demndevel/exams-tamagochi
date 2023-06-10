@@ -2,6 +2,10 @@
 
 Test hackathon task
 
+# Reqs
+
+- .NET 7 with asp net core SDK
+
 # How to run?
 
 - clone the repo
