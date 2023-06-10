@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{17B00129-282A-4511-A269-3DE53F54E7C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4B1BBC11-F482-4347-8F25-8F8E95762EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exagochi.Api", "src\Exagochi.Api\Exagochi.Api.csproj", "{7707E501-52C4-44BA-9CD7-CAF82715D251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7707E501-52C4-44BA-9CD7-CAF82715D251} = {17B00129-282A-4511-A269-3DE53F54E7C0}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7707E501-52C4-44BA-9CD7-CAF82715D251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7707E501-52C4-44BA-9CD7-CAF82715D251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7707E501-52C4-44BA-9CD7-CAF82715D251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7707E501-52C4-44BA-9CD7-CAF82715D251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
